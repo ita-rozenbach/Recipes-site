@@ -1,0 +1,21 @@
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark"
+    style="box-shadow: 3px 3px 3px #929292; position: -webkit-sticky; /* Safari */ position: sticky; top: 0; z-index:5000;">
+    <!-- Brand/logo -->
+    <a class="navbar-brand" [ngClass]="getClass() ? 'nav-link ' : 'nav-link disabled'" href="#"><img id="myimg" src="./assets/logo.svg"/></a>
+
+    <!-- Links -->
+    <ul class="navbar-nav" >
+        <li class="nav-item">
+            <a [ngClass]="getClass() ? 'nav-link ' : 'nav-link disabled'" class="nav-link" href="listrecipe"  (click)="func()">מתכונים</a>
+        </li>
+        <li class="nav-item">
+            <a  [ngClass]="getClass() ? 'nav-link ' : 'nav-link disabled'" class="nav-link" href="about">אודות</a>
+        </li>
+        <li class="nav-item">
+            <a [ngClass]="getClass() ? 'nav-link ' : 'nav-link disabled'" class="nav-link" href="addrecipe">הוסף מתכון</a>
+        </li>
+        <li class="nav-item">
+            <a [ngClass]="getClass() ? 'nav-link ' : 'nav-link disabled'" class="nav-link" href="contact">צור קשר</a>
+        </li>
+    </ul>
+</nav>

@@ -1,0 +1,50 @@
+
+* {box-sizing: border-box;}
+
+#contcat{
+  margin-bottom: 12px;
+  font-size: 24px;
+}
+input[type=text],input[type=mail] ,select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+.container{
+  margin-top: 60px;
+    direction: rtl;
+    text-align: right;
+}
+#warning{
+    color:red;
+    font-size: 12px;
+    margin-bottom: 15px;
+}
+input[type=submit] {
+    width: 100%;
+    /* background-color: #6bb5ba; */
+    background-color: rgb(172 47 110 / 90%);
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color:rgb(172 47 110 / 55%);
+  }
+  
+
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}

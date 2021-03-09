@@ -1,0 +1,77 @@
+
+<div class="allmaindetails" style="height: 500px;margin: 60px;" dir="rtl">
+    <div class="row" style="height: 100%;">
+        <div class="col-5 mainDetails">
+            <img style="margin:10px 20px 10px 10px" src="./assets/edit.png" *ngIf="isTheSameUserAdded()"
+                (click)="changeRoutingToEdit()" width="40px">
+
+            <div style="height: 100%; width: 100%; padding: 5%;" displayed="block">
+                <div style="font-size: 25px;"> מאת: {{test}} <p style="font-size: 15px;"> {{myFullRecipe.addRecipe |
+                        date}}</p>
+                </div>
+                <div style="font-size: 65px;">
+                    {{myFullRecipe.nameRecipe}}
+                </div>
+                
+                <br />
+                <div style="margin-top: 25px; font-size: 25px;">
+                    דרגת קושי: <img src="./assets/niceStar.png" width="24px" height="24px" *ngFor="let i of counter()">
+                </div>
+                <div style="font-size: 35px; position:absolute;bottom: 25px;">
+                    <img src="./assets/{{myFullRecipe.codeCategory}}.png" alt="" width="50" height="50"> ‏
+                    מתכונים ל{{nameCategoryOfMyFullRecipe}}
+                </div>
+            </div>
+        </div>
+
+        <div class="col-7 imageRecipe" style="height: 100%; width: 100%;">
+            <img src="{{myFullRecipe.image}}" style="height: 100%; width: 100%; padding: 0%;">
+        </div>
+
+    </div>
+
+    <div class="container" style="margin-top: 50px;">
+
+        <ul class="nav nav-tabs" role="tablist">
+            <li class="nav-item">
+                <a class="nav-link active" data-toggle="tab" href="#home">רכיבים</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" data-toggle="tab" href="#menu1">הוראות הכנה</a>
+            </li>
+ 
+        </ul>
+ 
+        <!-- Tab panes -->
+        <div class="tab-content">
+            <!-- רכיבים -->
+            <div id="home" class="container tab-pane active"style="margin-right:30px;">
+
+                <ul class="w3-ul w3-large‏ " style="direction:rtl; text-align:right">
+                    <li *ngFor="let item of myFullRecipe.ingredients.split('-'); let i=index">
+                        <img src="./assets/cutlery.png" width="30px" height="30px" style="margin:10px">
+                        {{item}}
+        
+                    </li>
+                </ul>‏
+ 
+            </div>
+            <div id="menu1" class="container tab-pane fade">
+                <ul class="w3-ul w3-large‏ " style="direction:rtl; text-align:right; font-size:10px !important">
+                    <li *ngFor="let item of myFullRecipe.Preparation.split('-'); let i=index">
+                       {{i+1}} .
+                       {{item}}
+                        
+                    </li>
+                </ul>
+            </div>
+          
+        </div>
+    </div>‏
+ <div style="height: 200px;"></div>
+
+    
+</div>
+
+
+<router-outlet></router-outlet>

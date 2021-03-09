@@ -1,0 +1,172 @@
+
+body[_ngcontent-bre-c50] {
+    position: relative;
+    background-color: #ffff !important ;
+    font-size: 18px;
+    padding: 0;
+    margin: 0;
+}
+/* .ingredients{
+    color:black;
+} */
+/* #menu1{
+    color: black;
+} */
+
+html, body {
+   
+    font-weight: 500;
+}
+
+body {
+    position: relative;
+    background-color: rgb(221 217 217 / 35%);
+    font-size: 18px;
+    padding: 0;
+    margin: 0;
+    
+}
+
+
+
+
+
+
+
+
+body{
+direction: rtl;
+text-align: right;
+
+}
+.allmaindetails{
+text-align:right;
+background-color:#6bb5ba ;
+
+font-style:normal ;
+/* line-height:  80px; */
+Color:#faf8f8;
+box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2); 
+
+}
+.mainDetails{
+ margin: 0% !important;
+ padding: 0% !important;
+
+}
+.imageRecipe{}
+
+.nav-link {
+    display: block;
+    padding: .5rem 1rem;
+    width: 530px !important;
+    background-color: #f2f2f2;
+
+}
+.nav-link.active{
+    background-color: #f2f2f2 !important;
+}
+.tab-content>.active {
+    background-color: #f2f2f2 !important;
+}‏
+    
+.allmaindetails[_ngcontent-udj-c51] {
+    text-align: right;
+    background-color: #6bb5ba;
+    font-style: normal;
+    Color: black;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: #495057;
+    background-color: #f2f2f2;
+    border-color: #f2f2f2 #f2f2f2 #6bb5ba;
+}
+.nav-link{
+    color: #495057;
+}
+.w3-ul {
+color:black ;
+}
+.w3-ul li {
+    padding: 8px 16px;
+    border-bottom: 0px solid #ddd;
+    font-size: 25px;
+    color: #5a5959;
+}
+#menu1{
+    padding-right: 50%;
+}
+
+
+/* עיצוב אינפוטים ברקע תכלת. */
+@import url('https://fonts.googleapis.com/css?family=Damion|Muli:400,600');
+
+
+:focus {
+    outline: none;
+}
+
+.aaa {
+    float: left;
+    width: 27.33%;
+    margin: 40px 3%;
+    position: relative;
+   
+}
+/* necessary to give position: relative to parent. */
+/* input[type="text"] {
+    font: 15px/24px "Lato", Arial, sans-serif;
+    color: #333;
+    width: 100%;
+    box-sizing: border-box;
+    letter-spacing: 1px;
+  
+   
+} */
+
+.effect-1 {
+    border: 0;
+    padding: 7px 0;
+    border-bottom: 1px solid #ccc; 
+     background-color: #6bb5ba;
+     font: 20px/24px "Lato", Arial, sans-serif;
+     color: #333;
+    width: 100%;
+    box-sizing: border-box;
+    letter-spacing: 1px;
+}
+
+    .effect-1 ~ .focus-border {
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        width: 0;
+        height: 2px;
+        background-color: #333;
+        transition: 0.4s;
+    }
+
+    .effect-1:focus ~ .focus-border {
+        width: 100%;
+        transition: 0.4s;
+    }
+    /* עיצוב אינפוטים רכיבים והוראיות. */
+    #self{
+        background-color: #f2f2f2 !important;
+        /* border-top: none;
+        border-left: none;
+        border-right: none;
+        border-bottom: none; */
+        border-color: 8080806e !important;
+        color: #6b6c6cb3;
+        font-size: 20px;
+        width: 350px;
+        height: 32spx;
+        
+    }
+    .prep{
+        width: 480px!important;
+    }
+
+

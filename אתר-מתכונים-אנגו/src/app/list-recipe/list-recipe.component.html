@@ -1,0 +1,38 @@
+<!-- <input type="text" placeholder="name recipe" #name (keyup)="getResultSearch(name.value,category.value,time.value)"> -->
+
+
+<form class="w3-container w3-text-blue w3-margin ">
+    <div class="row">
+        <div class="col-4">
+            <div class="w3-col" style="width:50px"><i class="w3-xxlarge "></i></div>
+            <div id="myFilter" class="w3-rest">
+                <input class="w3-input w3-border" name="first" type="text" placeholder="שם מתכון" #name
+                    (keyup)="getResultSearch(name.value,category.value,time.value)">
+            </div>
+        </div>
+        <div class="col-4">
+            <div class="w3-col" style="width:50px"><i class="w3-xxlarge "></i></div>
+            <div id="myFilter" class="w3-rest">
+                <input class="w3-input w3-border" name="first" type="number" placeholder="זמן הכנה" #time
+                    (keyup)="getResultSearch(name.value,category.value,time.value)">
+            </div>
+        </div>
+        <div class="col-4">
+            <select id="myFilter" style="height: 40px; width: 180px;text-align: center; background-color: #f2f2f2;border-color: #8080804d !important;" class="w3-col" #category
+                (change)="getResultSearch(name.value,category.value,time.value)">
+                <option [value]='00'>קטגוריה   </option>
+                <option *ngFor="let item of allCategories" [value]=' item.code'>
+                    {{item.name}}
+                </option>
+            </select>
+        </div>
+    </div>
+</form>
+
+
+<!-- <input type="text" placeholder="name recipe" #time (keyup)="getResultSearch(name.value,category.value,time.value)"> -->
+
+<div class="allcard">
+    <app-details-recipe class="card" *ngFor="let item of arreyRecipes" [myRecipe]="item"
+        (click)="changeClickedRecipe(item)"></app-details-recipe>
+</div>

@@ -1,0 +1,100 @@
+<!-- <input type="text" placeholder="שם המתכון" #name>
+<br>
+<select>
+    <option  *ngFor="let item of allCategories" value="item.code" #category>
+        {{item.name}}
+    </option>
+</select>
+<br>
+
+<input type="number" placeholder="זמן הכנה" #time>
+<br>
+<div  *ngFor="let item of arringredients; trackBy:trackByFn; let i=index;">
+<input type="text"  [(ngModel)]="arringredients[i]" placeholder="רכיבים"  (keydown)="addIndexArringredients($event)" (focusout)="checkIfEmptyIngredient($event,i)" >
+</div>
+<br>
+
+<div  *ngFor="let item of arrPreparation; trackBy:trackByFn; let i=index;">
+    <input type="text"  [(ngModel)]="arrPreparation[i]" placeholder="הוראות הכנה"  (keydown)="addIndexArrPreparation($event)" (focusout)="checkIfEmptyPreparation($event,i)" >
+    </div>
+    
+
+<br>
+
+<input type="text" placeholder="הכנס תמונה" #image>
+<br>
+
+<input type="checkbox" placeholder="האם לפרסם?" #ifshow>
+<button type="submit" (click)="AddRecipe(name.value,11,time.value,image.value,true)">הוסף</button> -->
+
+
+<body dir="rtl">
+    <div class="container">
+        <form action="/action_page.php" #myForm="ngForm">
+            <div class="row">
+                <div class="col-20">
+                    <label for="fname">שם המתכון: </label>
+                </div>
+                <div class="col-80">
+                    <input type="text" name="firstname" placeholder="הכנס שם.." #name>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-20">
+                    <label for="country">קטגוריה: </label>
+                </div>
+                <div class="col-80">
+                    <select #category id="country" >
+                        <option  *ngFor="let item of allCategories" [value]='item.code'>
+                            {{item.name}}
+                        </option>
+                    </select>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-20">
+                    <label for="fname">זמן הכנה: </label>
+                </div>
+                <div class="col-80">
+                    <input type="number" name="firstname" placeholder="הכנס זמן הכנה.." #time>
+                </div>
+            </div>
+
+           
+            <div class="row">
+                <div class="col-20">
+                    <label for="fname">הכנס תמונה: </label>
+                </div>
+                <div class="col-80">
+                    <input type="text" placeholder="הכנס לינק לתמונה" #image>
+                </div>
+
+            </div>
+
+        </form>
+        <div class="row">
+            <div class="col-20">
+                <label for="fname">רכיבים: </label>
+            </div>
+            <div class="col-80">
+                <div *ngFor="let item of arringredients; trackBy:trackByFn; let i=index;">
+                    <input type="text" [(ngModel)]="arringredients[i]" placeholder="מוצר {{i+1}}" 
+                        (keydown)="addIndexArringredients($event)" (focusout)="checkIfEmptyIngredient($event,i)">
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-20">
+                <label for="fname">הוראות הכנה:</label>
+            </div>
+            <div class="col-80">
+                <div *ngFor="let item of arrPreparation; trackBy:trackByFn; let i=index;">
+                    <input type="text" [(ngModel)]="arrPreparation[i]" placeholder="הוראה {{i+1}}"
+                        (keydown)="addIndexArrPreparation($event)" (focusout)="checkIfEmptyPreparation($event,i)">
+                </div>
+            </div>
+        </div>
+    </div>
+    <button type="submit" class="btn" (click)="AddRecipe(name.value,category.value,time.value,image.value,true)">הוסף</button>
+
+</body>

@@ -1,0 +1,17 @@
+<div class="container">
+    <form action="/action_page.php" #myForm="ngForm">
+        <div id="contcat">נשמח לשמוע ממכם...</div>
+
+        <input type="text" id="lname" name="name1" [(ngModel)]="name" #myName="ngModel" placeholder="Your last name.." required>
+        <div id="warning"*ngIf="myName.touched&&myName.hasError('required')">*שדה שם הוא חובה!!</div>
+
+        <input type="text" id="lmail" name="lmail" [(ngModel)]="mail"  #myMail="ngModel" placeholder="Your email.." required pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$">
+        <div id="warning" *ngIf="myMail.touched&&myMail.hasError('pattern')">שדה מייל אינו תקין!!</div>
+        <div id="warning" *ngIf="myMail.touched&&myMail.hasError('required')">שדה מייל הוא חובה!!</div>
+
+
+        <textarea id="subject" name="subject" [(ngModel)]="sub" #MySub="ngModel" placeholder="Write something.."  style="height:200px" required></textarea>
+        <div id="warning" *ngIf="MySub.touched&&MySub.hasError('required')">שדה נושא הוא חובה!!</div>
+        <input  type="submit" (click)="sendMail(name+' '+mail+' יצר איתך קשר מאתך המתכונים שלך : )...', sub); clear()" value="Submit">
+        </form>
+</div>

@@ -1,0 +1,461 @@
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\WebApplication3.dll.config
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\WebApplication3.dll
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\WebApplication3.pdb
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\roslyn\csc.exe
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\roslyn\csc.exe.config
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\roslyn\csc.rsp
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\roslyn\csi.exe
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\roslyn\csi.exe.config
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\roslyn\csi.rsp
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\roslyn\System.AppContext.dll
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\roslyn\System.Collections.Immutable.dll
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\roslyn\System.Console.dll
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\roslyn\System.IO.Compression.dll
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\roslyn\System.IO.FileSystem.dll
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\roslyn\System.IO.Pipes.dll
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\roslyn\System.Reflection.Metadata.dll
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\roslyn\System.Security.AccessControl.dll
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\roslyn\System.Security.Claims.dll
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\roslyn\System.ValueTuple.dll
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\roslyn\System.Xml.XPath.dll
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\roslyn\vbc.exe
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\roslyn\vbc.exe.config
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\roslyn\vbc.rsp
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\roslyn\VBCSCompiler.exe
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\roslyn\VBCSCompiler.exe.config
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\Newtonsoft.Json.dll
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\System.Net.Http.Formatting.dll
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\System.Web.Http.dll
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\System.Web.Http.WebHost.dll
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\Newtonsoft.Json.xml
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\System.Net.Http.Formatting.xml
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\System.Web.Http.xml
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\System.Web.Http.WebHost.xml
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csprojAssemblyReference.cache
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csproj.CoreCompileInputs.cache
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csproj.CopyComplete
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\obj\Debug\WebApplication3.dll
+D:\Users\תכנות\Documents\תכנות שנה ב\angular\פרויקט\WebApplication3\WebApplication3\obj\Debug\WebApplication3.pdb
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\WebApplication3.dll.config
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\WebApplication3.dll
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\WebApplication3.pdb
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\roslyn\csc.exe
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\roslyn\csc.exe.config
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\roslyn\csc.rsp
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\roslyn\csi.exe
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\roslyn\csi.exe.config
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\roslyn\csi.rsp
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\roslyn\System.AppContext.dll
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\roslyn\System.Collections.Immutable.dll
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\roslyn\System.Console.dll
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\roslyn\System.IO.Compression.dll
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\roslyn\System.IO.FileSystem.dll
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\roslyn\System.IO.Pipes.dll
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\roslyn\System.Reflection.Metadata.dll
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\roslyn\System.Security.AccessControl.dll
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\roslyn\System.Security.Claims.dll
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\roslyn\System.ValueTuple.dll
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\roslyn\System.Xml.XPath.dll
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\roslyn\vbc.exe
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\roslyn\vbc.exe.config
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\roslyn\vbc.rsp
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\roslyn\VBCSCompiler.exe
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\roslyn\VBCSCompiler.exe.config
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\Newtonsoft.Json.dll
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\System.Net.Http.Formatting.dll
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\System.Web.Http.dll
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\System.Web.Http.WebHost.dll
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\Newtonsoft.Json.xml
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\System.Net.Http.Formatting.xml
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\System.Web.Http.xml
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\System.Web.Http.WebHost.xml
+D:\Users\User\Downloads\WebApplication3\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Users\User\Downloads\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csprojAssemblyReference.cache
+D:\Users\User\Downloads\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csproj.CopyComplete
+D:\Users\User\Downloads\WebApplication3\WebApplication3\obj\Debug\WebApplication3.dll
+D:\Users\User\Downloads\WebApplication3\WebApplication3\obj\Debug\WebApplication3.pdb
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\WebApplication3.dll.config
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\WebApplication3.dll
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\WebApplication3.pdb
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\roslyn\csc.exe
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\roslyn\csc.exe.config
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\roslyn\csc.rsp
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\roslyn\csi.exe
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\roslyn\csi.exe.config
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\roslyn\csi.rsp
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\roslyn\System.AppContext.dll
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\roslyn\System.Console.dll
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\roslyn\vbc.exe
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\roslyn\vbc.exe.config
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\roslyn\vbc.rsp
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\Newtonsoft.Json.dll
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\System.Net.Http.Formatting.dll
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\System.Web.Http.dll
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\System.Web.Http.WebHost.dll
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\Newtonsoft.Json.xml
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\System.Net.Http.Formatting.xml
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\System.Web.Http.xml
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\System.Web.Http.WebHost.xml
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csprojAssemblyReference.cache
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csproj.CoreCompileInputs.cache
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csproj.CopyComplete
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\obj\Debug\WebApplication3.dll
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\obj\Debug\WebApplication3.pdb
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\System.Web.Cors.dll
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\System.Web.Http.Cors.dll
+C:\Users\Sara\Downloads\WebApplication3-20201207T171916Z-001\WebApplication3\WebApplication3\bin\System.Web.Http.Cors.xml
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\WebApplication3.dll.config
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\WebApplication3.dll
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\WebApplication3.pdb
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\roslyn\csc.exe
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\roslyn\csc.exe.config
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\roslyn\csc.rsp
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\roslyn\csi.exe
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\roslyn\csi.exe.config
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\roslyn\csi.rsp
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\roslyn\System.AppContext.dll
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\roslyn\System.Console.dll
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\roslyn\vbc.exe
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\roslyn\vbc.exe.config
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\roslyn\vbc.rsp
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\Newtonsoft.Json.dll
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\System.Net.Http.Formatting.dll
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\System.Web.Cors.dll
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\System.Web.Http.Cors.dll
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\System.Web.Http.dll
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\System.Web.Http.WebHost.dll
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\System.Net.Http.Formatting.xml
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\System.Web.Http.xml
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\System.Web.Http.Cors.xml
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\Newtonsoft.Json.xml
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\System.Web.Http.WebHost.xml
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csprojAssemblyReference.cache
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csproj.CoreCompileInputs.cache
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csproj.CopyComplete
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\obj\Debug\WebApplication3.dll
+C:\Users\Sara\angularProject\WebApplication3\WebApplication3\obj\Debug\WebApplication3.pdb
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\WebApplication3.dll.config
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\WebApplication3.dll
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\WebApplication3.pdb
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\roslyn\csc.exe
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\roslyn\csc.exe.config
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\roslyn\csc.rsp
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\roslyn\csi.exe
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\roslyn\csi.exe.config
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\roslyn\csi.rsp
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\roslyn\System.AppContext.dll
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\roslyn\System.Collections.Immutable.dll
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\roslyn\System.Console.dll
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\roslyn\System.IO.Compression.dll
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\roslyn\System.IO.FileSystem.dll
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\roslyn\System.IO.Pipes.dll
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\roslyn\System.Reflection.Metadata.dll
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\roslyn\System.Security.AccessControl.dll
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\roslyn\System.Security.Claims.dll
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\roslyn\System.ValueTuple.dll
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\roslyn\System.Xml.XPath.dll
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\roslyn\vbc.exe
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\roslyn\vbc.exe.config
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\roslyn\vbc.rsp
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\roslyn\VBCSCompiler.exe
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\roslyn\VBCSCompiler.exe.config
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\Newtonsoft.Json.dll
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\System.Net.Http.Formatting.dll
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\System.Web.Cors.dll
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\System.Web.Http.Cors.dll
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\System.Web.Http.dll
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\System.Web.Http.WebHost.dll
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\System.Net.Http.Formatting.xml
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\System.Web.Http.xml
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\System.Web.Http.Cors.xml
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\Newtonsoft.Json.xml
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\System.Web.Http.WebHost.xml
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csprojAssemblyReference.cache
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csproj.CopyComplete
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\obj\Debug\WebApplication3.dll
+D:\Users\User\Desktop\angular\gitProject\angularProject\WebApplication3\WebApplication3\obj\Debug\WebApplication3.pdb
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\WebApplication3.dll.config
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\WebApplication3.dll
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\WebApplication3.pdb
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\roslyn\csc.exe
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\roslyn\csc.exe.config
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\roslyn\csc.rsp
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\roslyn\csi.exe
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\roslyn\csi.exe.config
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\roslyn\csi.rsp
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\roslyn\System.AppContext.dll
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\roslyn\System.Collections.Immutable.dll
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\roslyn\System.Console.dll
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\roslyn\System.IO.Compression.dll
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\roslyn\System.IO.FileSystem.dll
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\roslyn\System.IO.Pipes.dll
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\roslyn\System.Reflection.Metadata.dll
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\roslyn\System.Security.AccessControl.dll
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\roslyn\System.Security.Claims.dll
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\roslyn\System.ValueTuple.dll
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\roslyn\System.Xml.XPath.dll
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\roslyn\vbc.exe
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\roslyn\vbc.exe.config
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\roslyn\vbc.rsp
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\roslyn\VBCSCompiler.exe
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\roslyn\VBCSCompiler.exe.config
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\Newtonsoft.Json.dll
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\System.Net.Http.Formatting.dll
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\System.Web.Cors.dll
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\System.Web.Http.Cors.dll
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\System.Web.Http.dll
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\System.Web.Http.WebHost.dll
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\System.Net.Http.Formatting.xml
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\System.Web.Http.xml
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\System.Web.Http.Cors.xml
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\Newtonsoft.Json.xml
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\System.Web.Http.WebHost.xml
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csprojAssemblyReference.cache
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csproj.CoreCompileInputs.cache
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csproj.CopyComplete
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\obj\Debug\WebApplication3.dll
+D:\Users\תכנות\Desktop\סי שארפ חדיש\WebApplication3\WebApplication3\obj\Debug\WebApplication3.pdb
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\WebApplication3.dll.config
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\WebApplication3.dll
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\WebApplication3.pdb
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\roslyn\csc.exe
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\roslyn\csc.exe.config
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\roslyn\csc.rsp
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\roslyn\csi.exe
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\roslyn\csi.exe.config
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\roslyn\csi.rsp
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\roslyn\System.AppContext.dll
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\roslyn\System.Collections.Immutable.dll
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\roslyn\System.Console.dll
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\roslyn\System.IO.Compression.dll
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\roslyn\System.IO.FileSystem.dll
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\roslyn\System.IO.Pipes.dll
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\roslyn\System.Reflection.Metadata.dll
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\roslyn\System.Security.AccessControl.dll
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\roslyn\System.Security.Claims.dll
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\roslyn\System.ValueTuple.dll
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\roslyn\System.Xml.XPath.dll
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\roslyn\vbc.exe
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\roslyn\vbc.exe.config
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\roslyn\vbc.rsp
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\roslyn\VBCSCompiler.exe
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\roslyn\VBCSCompiler.exe.config
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\Newtonsoft.Json.dll
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\System.Net.Http.Formatting.dll
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\System.Web.Cors.dll
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\System.Web.Http.Cors.dll
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\System.Web.Http.dll
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\System.Web.Http.WebHost.dll
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\System.Net.Http.Formatting.xml
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\System.Web.Http.xml
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\System.Web.Http.Cors.xml
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\Newtonsoft.Json.xml
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\System.Web.Http.WebHost.xml
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csprojAssemblyReference.cache
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csproj.CoreCompileInputs.cache
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csproj.CopyComplete
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\obj\Debug\WebApplication3.dll
+D:\Users\תכנות\Documents\תיקיית פרויקטים\אתר מתכונים\אתר מתכונים-סי שארפ\WebApplication3\WebApplication3\obj\Debug\WebApplication3.pdb

@@ -1,0 +1,66 @@
+.allcard{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.card{
+    margin: 2%;
+}
+
+input[type=select]{
+    height: 55px !important;
+    width: 120px !important;
+    background-color: #f2f2f2 !important;
+    background-image: url('/assets/search.png');
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    background-size: 20px;
+}
+.w3-light-grey, .w3-hover-light-grey:hover, .w3-light-gray, .w3-hover-light-gray:hover {
+    color: #000!important;
+    background-color: #f2f2f2!important;
+}
+.w3-margin {
+    margin: 16px!important;
+}
+.w3-card-4, .w3-hover-shadow:hover {
+    box-shadow: 0 0px 0px 0 rgba(0,0,0,0), 0 0px 0px 0 rgba(0,0,0,0.0);
+}
+.w3-container{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+form {
+    display: block;
+    margin-top: 0em;
+}
+html, body {
+    font-size: 15px;
+    line-height: 1.5;
+}
+#myFilter{
+    margin: 40px;
+    text-align: center;
+    position: center;
+}
+
+
+
+.col-40{
+    margin: 10px;
+}
+
+.w3-input {
+    background-color: #f2f2f2;
+    padding: 8px;
+    display: block;
+    border: none;
+    width: 100%;
+    text-align: center;
+    background-image: url('/assets/search.png');
+  background-position: 10px 10px; 
+  background-repeat: no-repeat;
+  background-size: 20px;
+}

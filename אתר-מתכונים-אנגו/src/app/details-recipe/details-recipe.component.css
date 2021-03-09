@@ -1,0 +1,75 @@
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 414px;
+    height: 300px;
+  }
+ 
+  .nameRecipe{
+      text-align: center;
+      align-items:center;
+  }
+  
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2); 
+  }
+  .myImage:hover{
+   background-color: black;
+   opacity: 0.9;
+  }
+  .text {
+    color: black;
+    font-size: 16px;
+
+  }
+
+  /* .container {
+    padding: 2px 16px;
+  } */
+  
+  
+/*  
+.container {
+  position: relative;
+  width: 50%;
+} */
+
+/* .image {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+} */
+
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+
+.myImage:hover .image {
+    opacity: 0.6;
+  }
+  
+  .myImage:hover .middle {
+    opacity: 1;
+  }
+
+  .image:after {
+    content: '\A';
+    position: absolute;
+    width: 100%; height:100%;
+    top:0; left:0;
+    background:rgba(0,0,0,0.6);
+    opacity: 0;
+    transition: all 1s;
+    -webkit-transition: all 1s;
+}
